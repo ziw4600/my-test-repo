@@ -1,2 +1,3 @@
 Hello 
 This is my test file for my first repository in GitHub 
+Changes to the notes file
